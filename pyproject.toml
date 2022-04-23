@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "sc-dc-cc-ta"
+version = "0.1.0"
+description = ""
+authors = ["hiran dissanayake"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyter = "*"
+ipykernel = "*"
+pandas = "1.3.5"
+numpy = "1.21.0"
+sklearn = "*"
+matplotlib = "*"
+seaborn = "*"
+torch = "*"
+shap = "*"
+pytorch_tabnet = "*"
+statsmodels = "*"
+pandas_profiling = "*"
+sweetviz = "*"
+geopandas = "*"
